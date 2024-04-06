@@ -44,15 +44,15 @@ npm run dev
 ### Screenshots
 
 
-![Student Dashborad](https://github.com/Sachin4219/Hostel-Management-Final/blob/main/hostel-management/public/dashboard.jpeg)
+![Student Dashborad]()
 <h4 align="center"><em>Student Dashboard</em></h4>
 <br>
 
-![Student Dashborad](https://github.com/Sachin4219/Hostel-Management-Final/blob/main/hostel-management/public/file_complaint.jpeg)
+![Student Dashborad]()
 <h4 align="center"><em>File Complaint</em></h4>
 <br>
 
-![Admin Complaint](https://github.com/Sachin4219/Hostel-Management-Final/blob/main/hostel-management/public/admin_complaint.jpeg)
+![Admin Complaint])
 <h4 align="center"><em>Admin Complaint</em></h4>
 <br>
 
