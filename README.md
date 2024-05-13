@@ -5,7 +5,7 @@
 
 
 
-## Features :rocket: :vulcan_salute:
+## Features :
 :heavy_check_mark: Beautiful UI <br>
 :heavy_check_mark: Fully Responsive <br>
 :heavy_check_mark: JWT Authentication <br>
@@ -16,7 +16,6 @@
 
 ## Development and Installation
 
-### Clone Project
 ```
 git clone https://github.com/jaldip12/Hostel-Management-/tree/master
 cd Hostel-Management-Final
@@ -41,20 +40,7 @@ npm start
 ```
 Into backend directories run
 npm run dev
-### Screenshots
 
-
-![Student Dashborad]()
-<h4 align="center"><em>Student Dashboard</em></h4>
-<br>
-
-![Student Dashborad]()
-<h4 align="center"><em>File Complaint</em></h4>
-<br>
-
-![Admin Complaint])
-<h4 align="center"><em>Admin Complaint</em></h4>
-<br>
 
 
 
